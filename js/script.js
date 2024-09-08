@@ -1,0 +1,1 @@
+var courseName =console.log("hello");
